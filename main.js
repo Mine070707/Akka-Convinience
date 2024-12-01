@@ -14,7 +14,7 @@ yesBtn.addEventListener("click", () => {
 
     yesBtn.addEventListener("click", () =>{
       question.innerHTML = "Advance Happy BirthDay🎂";
-      gif.src ="fourth.gif";
+      gif.src ="Happy.gif";
 
       yesBtn.addEventListener("click", () =>{
         question.innerHTML = "I LOVE YOU Akka Luuu!!💖";
